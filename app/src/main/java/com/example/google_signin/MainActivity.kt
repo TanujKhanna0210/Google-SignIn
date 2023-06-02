@@ -1,4 +1,4 @@
-package com.codingstuff.googlesignin_kt
+package com.example.google_signin
 
 import android.app.Activity
 import android.content.Intent
@@ -7,8 +7,6 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
-import com.example.google_signin.HomeActivity
-import com.example.google_signin.R
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
